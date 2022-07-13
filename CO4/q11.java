@@ -1,5 +1,5 @@
 import java.util.*;
-public class q8{
+public class q11{
    public static void main(String[] args){
        LinkedList<String> avengers=new LinkedList<String>();
        Scanner sc=new Scanner(System.in);
